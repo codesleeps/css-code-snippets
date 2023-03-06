@@ -1,5 +1,7 @@
 # CSS Cheat Sheet 🦾
 
+https://codesleeps.github.io/css-code-snippets/
+
 ## Instructions
 
 * As a user, I can view a collection of labeled CSS snippets in a responsive grid.
