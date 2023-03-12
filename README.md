@@ -30,14 +30,5 @@ https://codesleeps.github.io/css-code-snippets/
 
 
 
-    ![On a mobile device, the application displays one CSS code snippet per row.](./images/03-app-mobile.png)
-<img width="1358" alt="01-app-desktop" src="https://user-images.githubusercontent.com/125808990/220575592-1f999b50-e6c9-4274-ae7a-057f3c8a0fe1.png">
-
-<img width="884" alt="02-app-tablet" src="https://user-images.githubusercontent.com/125808990/220575636-12a59a33-3ac1-43b8-8403-010659189a3a.png">
-
-
-<img width="624" alt="03-app-mobile" src="https://user-images.githubusercontent.com/125808990/220575673-3ad4992b-5342-451a-90d4-b8e8e5ca1f73.png">
-
-
 
 
