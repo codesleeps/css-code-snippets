@@ -11,36 +11,18 @@ https://codesleeps.github.io/css-code-snippets/
 * As a user, I can highlight a code snippet by clicking on it.
 
 * As a user, I can view my application on a mobile device as well as a desktop.
-
-
-### Specifications. 👀
-
-
 * Must use semantic HTML elements and proper indentation.
-
 * Use CSS variables to maintain clean and reusable values for a color scheme.
-
 * Use flexbox and media queries to create a responsive grid layout.
-
 * Each CSS snippet should have a card-like layout with the CSS syntax wrapped in an [HTML pre element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre).
-
 * Each CSS snippet can easily be highlighted for copying on click using the [CSS user-select property](https://developer.mozilla.org/en-US/docs/Web/CSS/user-select).
-
 * Must incorporate a background color using a [CSS linear-gradient function](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient).
 
 * Must incorporate a bit of animation using the [CSS transition property](https://developer.mozilla.org/en-US/docs/Web/CSS/transition).
 
-* You and your group can decide which CSS styles and colors you will use to design the application, but the app needs to be a responsive. Use the following images to gain an understanding of how the app should look at different screen sizes, from a layout perspective:
 
-  * At size 992px and above, the app should resemble the following image:
 
-    ![On a desktop, the application displays three CSS code snippets per row.](./images/01-app-desktop.png)
 
-  * At size 768px and above, the app should resemble the following image:
-
-    ![On a tablet, the application displays two CSS code snippets per row.](./images/02-app-tablet.png)
-
-  * On mobile devices, anything under 768px, the app should resemble the following image:
 
     ![On a mobile device, the application displays one CSS code snippet per row.](./images/03-app-mobile.png)
 <img width="1358" alt="01-app-desktop" src="https://user-images.githubusercontent.com/125808990/220575592-1f999b50-e6c9-4274-ae7a-057f3c8a0fe1.png">
