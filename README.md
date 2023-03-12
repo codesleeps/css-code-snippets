@@ -41,11 +41,15 @@ https://codesleeps.github.io/css-code-snippets/
 ## Screenshots
 
 > Desktop
+> 
 > ![desktopCssSnippets1](https://user-images.githubusercontent.com/125808990/224535819-82906b14-ab21-42e2-b58e-2d910a56f0a8.png)
+> 
 > ![desktopCssSnippets2](https://user-images.githubusercontent.com/125808990/224535839-42b9a241-499b-4fa7-a80f-206e0abc5224.png)
+> 
 > ![desktopCssSnippets3](https://user-images.githubusercontent.com/125808990/224535844-1a261805-54a4-451d-8206-806b0064009e.png)
 
 > Mobile
+> 
 > ![mobileCssSnippets1](https://user-images.githubusercontent.com/125808990/224535895-afff7bd7-ab3f-4d52-aa08-0abc61405946.png)
 > 
 > ![mobileCssSnippets2](https://user-images.githubusercontent.com/125808990/224535907-3ea4438f-8ea6-4149-af92-733826e76d80.png)
