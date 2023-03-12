@@ -11,11 +11,17 @@ https://codesleeps.github.io/css-code-snippets/
 * As a user, I can highlight a code snippet by clicking on it.
 
 * As a user, I can view my application on a mobile device as well as a desktop.
+
 * Must use semantic HTML elements and proper indentation.
+ 
 * Use CSS variables to maintain clean and reusable values for a color scheme.
+ 
 * Use flexbox and media queries to create a responsive grid layout.
+ 
 * Each CSS snippet should have a card-like layout with the CSS syntax wrapped in an [HTML pre element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre).
+ 
 * Each CSS snippet can easily be highlighted for copying on click using the [CSS user-select property](https://developer.mozilla.org/en-US/docs/Web/CSS/user-select).
+
 * Must incorporate a background color using a [CSS linear-gradient function](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient).
 
 * Must incorporate a bit of animation using the [CSS transition property](https://developer.mozilla.org/en-US/docs/Web/CSS/transition).
