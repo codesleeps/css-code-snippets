@@ -30,6 +30,22 @@ https://codesleeps.github.io/css-code-snippets/
 - [x] Must incorporate a bit of animation using the [CSS transition property](https://developer.mozilla.org/en-US/docs/Web/CSS/transition).
 
 
+## Lighthouse Scores
+
+> Desktop Score
+> ![desktopCodeSnippets](https://user-images.githubusercontent.com/125808990/224535765-40b36226-02c7-43c9-9ff5-7239925b8b1d.png)
+
+> Mobile Score
+> ![mobileCodeSnippets](https://user-images.githubusercontent.com/125808990/224535785-14e39345-da99-4d14-99f0-d565bfd57cc5.png)
+
+## Screenshots
+
+> Desktop
+> ![desktopCssSnippets1](https://user-images.githubusercontent.com/125808990/224535819-82906b14-ab21-42e2-b58e-2d910a56f0a8.png)
+> ![desktopCssSnippets2](https://user-images.githubusercontent.com/125808990/224535839-42b9a241-499b-4fa7-a80f-206e0abc5224.png)
+> ![desktopCssSnippets3](https://user-images.githubusercontent.com/125808990/224535844-1a261805-54a4-451d-8206-806b0064009e.png)
+
+
 
 
 
