@@ -47,7 +47,9 @@ https://codesleeps.github.io/css-code-snippets/
 
 > Mobile
 > ![mobileCssSnippets1](https://user-images.githubusercontent.com/125808990/224535895-afff7bd7-ab3f-4d52-aa08-0abc61405946.png)
+> 
 > ![mobileCssSnippets2](https://user-images.githubusercontent.com/125808990/224535907-3ea4438f-8ea6-4149-af92-733826e76d80.png)
+> 
 > ![mobileCssSnippets3](https://user-images.githubusercontent.com/125808990/224535915-1588f449-ebd3-477a-a400-4031bf112597.png)
 
 
